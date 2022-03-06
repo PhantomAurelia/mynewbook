@@ -1,3 +1,3 @@
 ## patata
 
-Here's some text and [here's my label](my-label)
+Here is my nifty citation {cite}`perez2011python`.
